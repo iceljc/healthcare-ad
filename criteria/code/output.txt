@@ -1,0 +1,3 @@
+age is at least 35
+minimum mmse 13  , maximum mmse 26
+bmi is between 10.0 and 37.8
