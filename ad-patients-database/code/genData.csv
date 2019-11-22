@@ -1,0 +1,101 @@
+ID,age,yearOfEducation,sex,race,hispanic,diagnosis
+1,78,21,Female,Black or African American,No,Normal
+2,64,14,Female,Asian,No,Normal
+3,76,16,Male,White,No,Dementia
+4,90,8,Male,White,No,Dementia
+5,94,10,Female,Unknown,No,Dementia
+6,75,22,Female,White,No,Normal
+7,76,20,Male,White,No,Dementia
+8,69,10,Female,White,No,Dementia
+9,76,13,Female,White,No,Normal
+10,91,14,Male,White,No,Dementia
+11,84,19,Female,White,No,Normal
+12,84,20,Male,White,No,Dementia
+13,76,23,Male,Asian,No,Normal
+14,83,20,Male,White,No,Dementia
+15,63,20,Female,White,No,Normal
+16,76,9,Male,White,No,Dementia
+17,68,24,Male,White,Yes,Dementia
+18,71,7,Male,White,No,Dementia
+19,84,11,Male,White,No,Dementia
+20,74,18,Female,White,No,Normal
+21,83,14,Female,Black or African American,No,Normal
+22,78,24,Male,White,No,Dementia
+23,67,24,Female,Black or African American,No,Normal
+24,70,17,Female,White,No,Normal
+25,70,19,Male,White,No,Dementia
+26,93,15,Female,White,No,Dementia
+27,62,21,Female,White,No,Normal
+28,84,21,Female,Black or African American,No,Normal
+29,66,9,Female,White,No,Dementia
+30,72,15,Female,White,No,Normal
+31,88,13,Male,White,No,Dementia
+32,69,7,Male,White,No,Dementia
+33,56,13,Female,Asian,No,Normal
+34,83,23,Male,White,No,Dementia
+35,56,20,Female,White,No,Normal
+36,85,13,Male,White,No,Dementia
+37,87,20,Female,White,No,Dementia
+38,94,13,Female,White,No,Dementia
+39,71,15,Female,White,Yes,Normal
+40,76,13,Male,White,No,Dementia
+41,82,15,Male,White,No,Dementia
+42,76,18,Female,White,Yes,Normal
+43,51,16,Female,White,No,Normal
+44,87,7,Female,White,No,Dementia
+45,45,8,Female,Unknown,No,Dementia
+46,88,13,Female,Black or African American,No,Normal
+47,89,22,Female,White,No,Dementia
+48,68,13,Male,White,No,Dementia
+49,87,14,Female,White,No,Dementia
+50,79,19,Male,White,No,Dementia
+51,75,14,Male,White,No,Dementia
+52,79,17,Male,White,No,Dementia
+53,68,24,Female,White,No,Normal
+54,90,19,Male,White,No,Dementia
+55,47,15,Female,White,No,Normal
+56,73,10,Female,Black or African American,No,Dementia
+57,76,12,Female,White,No,Dementia
+58,42,15,Female,White,No,Normal
+59,75,11,Female,White,No,Dementia
+60,73,22,Female,White,No,Normal
+61,75,19,Female,Black or African American,No,Normal
+62,78,21,Male,Multiracial,No,Dementia
+63,71,11,Female,White,No,Dementia
+64,85,14,Male,White,No,Dementia
+65,94,12,Male,Asian,No,Dementia
+66,72,22,Female,White,No,Normal
+67,90,16,Male,White,No,Dementia
+68,56,20,Female,Black or African American,No,Normal
+69,92,17,Male,White,No,Dementia
+70,67,15,Male,White,No,Dementia
+71,78,5,Male,White,No,Dementia
+72,86,6,Female,White,Yes,Dementia
+73,78,11,Female,White,No,Dementia
+74,80,14,Female,White,No,Normal
+75,61,10,Female,Black or African American,No,Dementia
+76,64,18,Female,Black or African American,No,Normal
+77,94,10,Female,White,No,Dementia
+78,77,16,Female,White,No,Normal
+79,67,17,Female,White,No,Normal
+80,41,19,Female,White,No,Normal
+81,68,14,Male,Black or African American,No,Normal
+82,85,15,Male,White,No,Dementia
+83,94,18,Male,White,No,Dementia
+84,87,19,Male,White,No,Dementia
+85,68,16,Male,White,Yes,Dementia
+86,94,16,Male,White,No,Dementia
+87,77,11,Female,White,No,Dementia
+88,45,13,Female,White,No,Normal
+89,81,23,Female,White,No,Normal
+90,77,16,Male,White,No,Dementia
+91,80,21,Female,Asian,No,Normal
+92,66,22,Female,White,No,Normal
+93,94,5,Female,Multiracial,No,Dementia
+94,68,21,Male,White,Yes,Dementia
+95,75,12,Female,American Indian or Alaska Native,No,Dementia
+96,58,15,Male,White,No,Dementia
+97,48,21,Female,White,No,Normal
+98,83,5,Female,White,No,Dementia
+99,83,19,Male,White,No,Dementia
+100,65,14,Female,White,Yes,Normal
